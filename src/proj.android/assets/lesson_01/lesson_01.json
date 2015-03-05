@@ -1,0 +1,33 @@
+{
+    "lesson": {
+        "lessonId": "1",
+        "lessonTitle": "스마트폰",
+        "lessonTitlePicture": "smartphones.jpg",
+        "words": [
+            {
+                "wordId": "1",
+                "word": "click",
+                "meaning": "클릭",
+                "pronunciation": "클릭",
+                "picture": "1_click.jpg",
+                "word_sound": "good_word.mp3"
+            },
+            {
+                "wordId": "2",
+                "word": "swipe",
+                "meaning": "스와이프",
+                "pronunciation": "스와이프",
+                "picture": "2_swipe.jpg",
+                "word_sound": "good_word.mp3"
+            },
+            {
+                "wordId": "3",
+                "word": "wifi",
+                "meaning": "와이파이",
+                "pronunciation": "와이파이",
+                "picture": "3_wifi.jpg",
+                "word_sound": "good_word.mp3"
+            }
+        ]
+    }
+}

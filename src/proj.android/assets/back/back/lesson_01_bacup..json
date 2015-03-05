@@ -1,0 +1,53 @@
+{
+    "lesson": {
+        "lessonId": "1",
+        "lessonTitle": "Cafe",
+        "lessonTitlePicture": "cafe.jpg",
+        "lessonEndingPicture": "cafe_ending.jpg",
+        "lessonEndingText": "Why Creative People \n Like to Go to \n Cafes \n to Work?",
+        "words": [
+            {
+                "wordId": "1",
+                "myWordFlag": "1",
+                "archivedWordFlag": "0",
+                "word": "candle",
+                "part": "n.",
+                "collocation": "light a candle",
+                "example": "Our life is like a candle in the wind.",
+                "word_korean": "초, 촛불",
+                "collocation_korean": "초를 켜다",
+                "example_korean": "Our life is like a candle in the wind.",
+                "picture": "candle.jpg",
+                "word_sound": "good_word.mp3"
+            },
+            {
+                "wordId": "2",
+                "myWordFlag": "0",
+                "archivedWordFlag": "0",
+                "word": "barista",
+                "part": "n.",
+                "collocation": "barista certification",
+                "example": "He is one of the famous baristas in Italy.",
+                "word_korean": "즉석에서 커피를 전문적으로 만들어 주는 사람, 바리스타",
+                "collocation_korean": "바리스타 자격증",
+                "example_korean": "그는 이타리아에서 유명한 바리스타중 하나이다.",
+                "picture": "barista.jpg",
+                "word_sound": "awe_word.mp3"
+            },
+            {
+                "wordId": "3",
+                "myWordFlag": "0",
+                "archivedWordFlag": "1",
+                "word": "leisure",
+                "part": "n.",
+                "collocation": "leisure activities",
+                "example": "He enjoys reading a book in his favorite cafe for his leisure activities.",
+                "word_korean": "여가",
+                "collocation_korean": "여가활동",
+                "example_korean": "그는 여가활동으로 그가 좋아한는 카페에 책 읽는 것을 즐긴다.",
+                "picture": "leisure.jpg",
+                "word_sound": "like_word.mp3"
+            }
+        ]
+    }
+}

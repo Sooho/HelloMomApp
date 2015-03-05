@@ -1,0 +1,41 @@
+{
+    "lesson": {
+        "lessonId": "1",
+        "lessonTitle": "My Room",
+        "words": [
+            {
+                "wordId": "1",
+                "wordData": {
+                    "word": "good",
+                    "meaning": "좋은",
+                    "example": "He is a good father.",
+                    "picture": "good2.jpg",
+                    "sound_word": "good_word.mp3",
+                    "sound_example": "good_example.mp3"
+                }
+            },
+            {
+                "wordId": "2",
+                "wordData": {
+                    "word": "awesome",
+                    "meaning": "굉장한",
+                    "example": "Look at the sky. It's awesome.",
+                    "picture": "awesome.png",
+                    "sound_word": "gawesome_word.mp3",
+                    "sound_example": "awesome_example.mp3"
+                }
+            },
+            {
+                "wordId": "3",
+                "wordData": {
+                    "word": "like",
+                    "meaning": "좋아하다",
+                    "example": "She likes flowers.",
+                    "picture": "flower.jpg",
+                    "sound_word": "like_word.mp3",
+                    "sound_example": "like_example.mp3"
+                }
+            }
+        ]
+    }
+}

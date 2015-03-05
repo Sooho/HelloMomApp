@@ -1,0 +1,81 @@
+{
+    "lesson": {
+        "lessonId": "2",
+        "lessonTitle": "Cafe",
+        "lessonTitlePicture": "cafe.jpg",
+        "words": [
+            {
+                "wordId": "1",
+                "word": "coffee",
+                "meaning": "커피",
+                "pronunciation": "커피",
+                "picture": "1_coffee.jpg",
+                "word_sound": "good_word.mp3"
+            },
+            {
+                "wordId": "2",
+                "word": "order",
+                "meaning": "주문(하다.)",
+                "pronunciation": "오더",
+                "picture": "2_order.jpg",
+                "word_sound": "good_word.mp3"
+            },
+            {
+                "wordId": "3",
+                "word": "bitter",
+                "meaning": "쓴",
+                "pronunciation": "비터",
+                "picture": "3_bitter.jpg",
+                "word_sound": "good_word.mp3"
+            },
+            {
+                "wordId": "4",
+                "word": "sweet",
+                "meaning": "단",
+                "pronunciation": "스윗",
+                "picture": "4_sweet.jpg",
+                "word_sound": "good_word.mp3"
+            },
+            {
+                "wordId": "5",
+                "word": "cappuccino",
+                "meaning": "카푸치노",
+                "pronunciation": "카푸치노",
+                "picture": "5_cappuccino.jpg",
+                "word_sound": "good_word.mp3"
+            },
+            {
+                "wordId": "6",
+                "word": "chatter",
+                "meaning": "수다",
+                "pronunciation": "채터",
+                "picture": "6_chatter.jpg",
+                "word_sound": "good_word.mp3"
+            },
+            {
+                "wordId": "7",
+                "word": "study",
+                "meaning": "공부하다",
+                "pronunciation": "스터디",
+                "picture": "7_study.jpg",
+                "word_sound": "good_word.mp3"
+            },
+            {
+                "wordId": "8",
+                "word": "meeting",
+                "meaning": "만남",
+                "pronunciation": "미팅",
+                "picture": "8_meeting.jpg",
+                "word_sound": "good_word.mp3"
+            },
+            {
+                "wordId": "9",
+                "word": "wait",
+                "meaning": "기다림",
+                "pronunciation": "웨이트",
+                "picture": "9_wating.jpg",
+                "word_sound": "good_word.mp3"
+            }
+        ]
+    }
+}

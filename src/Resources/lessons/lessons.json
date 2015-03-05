@@ -1,0 +1,16 @@
+{
+    "lessons": [
+        {
+            "lessonId": "1",
+            "lessonName": "스마트폰",
+            "lessonFileName": "lesson_01/lesson_01.json",
+            "lessonPicture": "smartphones.jpg""
+        },
+        {
+            "lessonId": "2",
+            "lessonName": "카페",
+            "lessonFileName": "lesson_02/lesson_02.json",
+            "lessonPicture": "cafe.jpg""
+        }
+    ]
+}
